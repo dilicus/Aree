@@ -3,6 +3,8 @@
 
 #include "AreaRett.cpp"
 #include "AreaTri.cpp"
+#include "AreaCerchio.cpp"
+#include "AreaTrapezio.cpp"
 
 int main(){
 
