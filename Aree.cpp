@@ -2,6 +2,7 @@
 #include "stdlib.h"
 
 #include "AreaRett.cpp"
+#include "AreaTri.cpp"
 
 int main(){
 
