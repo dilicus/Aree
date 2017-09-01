@@ -1,6 +1,8 @@
 #include "stdio.h"
 #include "stdlib.h"
 
+#include "AreaRett.cpp"
+
 int main(){
 
   double area=0.;
